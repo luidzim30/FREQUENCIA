@@ -40,8 +40,8 @@ button { cursor: pointer; }
   .gold-button { width: 100%; min-height: 54px; padding: 0 14px; font-size: 10px; letter-spacing: .05em; }
   .quiz-screen { padding-left: 16px; padding-right: 16px; }
   .progress-meta { margin-top: 24px; font-size: 9px; }
-  .question-content { margin: 0; padding: 28px 0 22px; }
-  .question-content h2 { font-size: clamp(24px, 7.5vw, 32px); }
+  .question-content { margin: 0; padding: 28px 2px 22px; }
+  .question-content h2 { max-width: 100%; font-size: clamp(21px, 7vw, 29px); line-height: 1.06; letter-spacing: -.045em; overflow-wrap: anywhere; }
   .question-content > p { margin: 11px 0 20px; font-size: 12px; }
   .answer-card { min-height: 62px; gap: 11px; padding: 10px 11px; font-size: 13px; }
   .answer-icon { flex-basis: 34px; width: 34px; height: 34px; }
