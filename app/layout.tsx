@@ -4,8 +4,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Frecuencias Vibracionales | Presentación',
-  description: 'Descubre la frecuencia vibracional que puede transformar tu vida.',
+  title: 'Frecuencia Divina | Experiencia de conexión interior',
+  description: 'Descubre una experiencia guiada de escucha, reflexión y conexión interior.',
   generator: 'v0.app',
   icons: {
     icon: [
