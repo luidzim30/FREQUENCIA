@@ -68,8 +68,7 @@ const questions: Question[] = [
   },
   {
     title: '¿SABÍAS QUE DURANTE SIGLOS SE HAN UTILIZADO SONIDOS Y CÁNTICOS EN PRÁCTICAS DE CONTEMPLACIÓN ESPIRITUAL?',
-    subtitle: 'Durante generaciones, estas prácticas han formado parte de la búsqueda de serenidad, fe y conexión interior.',
-    options: [
+      options: [
       { label: 'Sí, y siempre he tenido curiosidad.', icon: Waves },
       { label: 'He escuchado sobre ello, pero nunca lo he probado.', icon: Sparkles },
       { label: 'No lo sabía, quiero descubrir más.', icon: Landmark },
